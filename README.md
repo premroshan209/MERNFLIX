@@ -1,4 +1,4 @@
-# 🎬 MERNFLIX - Netflix Clone
+# 🎬 MERNFLIX - Subscription Video Streaming Service
 
 A comprehensive Netflix-like streaming platform built with the MERN stack. Users can subscribe to monthly or yearly plans to stream premium video content including movies and TV series. The platform features personalized user profiles, AI-powered recommendations, integrated video player, and robust subscription management with recurring billing capabilities. Administrators have full control over the content library with video upload functionality and comprehensive subscriber analytics monitoring.
 
